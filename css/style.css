@@ -1,0 +1,28 @@
+body {
+	margin: 0;
+	color: #ffffff;
+	background-color: #000000;
+	text-align: center;
+	overflow: hidden;
+}
+.warning {
+	color: rgb(255,50,50);
+}
+.enter {
+	color: rgb(50, 240, 100);
+	font-weight: bold;
+}
+.screenshot img {
+	display: inline-block;
+}
+h3 {
+	color: powderblue;
+	text-decoration: underline;
+}
+a {
+	text-decoration: none;
+	color: #0078ff;
+}
+a:hover {
+	color: turquoise;
+}
