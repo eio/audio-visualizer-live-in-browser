@@ -1,6 +1,6 @@
 # Live Audio Visualizer (browser-based and interactive) #
 
-Try it out live here (Chrome or Firefox): https://wobkat.github.io/audio-visualizer-live-in-browser/
+Try it out live here (Chrome or Firefox): https://eio.github.io/audio-visualizer-live-in-browser/
 
 ## Overview ##
 
